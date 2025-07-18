@@ -9,7 +9,7 @@ Hi! I'm a passionate and skilled developer focused on building modern, responsiv
 ### 🧑‍🎨 Front-End
 - **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
 - **Bootstrap**, **MUI (Material UI)**
-- **jQuery* **React.js**, **Next.js**
+- **jQuery** **React.js**, **Next.js**
 - **Styled Components**
 
 ### 🛠️ Back-End
