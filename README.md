@@ -2,7 +2,7 @@
 
 Hi! I'm a passionate and skilled developer focused on building modern, responsive, and scalable web applications. I specialize in front-end development and have strong back-end experience as well. Below is a quick overview of my technical skillset.
 
----
+
 
 ## 🚀 Tech Stack
 
