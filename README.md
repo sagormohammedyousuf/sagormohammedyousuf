@@ -1,4 +1,4 @@
-# Sagor Mohammed Yousuf — Front-End & Back-End Developer
+# Sagor Mohammed Yousuf - Full Stack Developer
 
 Hi! I'm a passionate and skilled developer focused on building modern, responsive, and scalable web applications. I specialize in front-end development and have strong back-end experience as well. Below is a quick overview of my technical skillset.
 
